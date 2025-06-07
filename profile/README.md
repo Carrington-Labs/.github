@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Carrington-Labs/.github/main/assets/header.svg" alt="Carrington Labs Banner" width="100%">
-</p>
-
 <h1 align="center">⚙️ Carrington Labs</h1>
 <p align="center"><strong><em>Code that hits like a precision strike.</em></strong></p>
 <p align="center">No noise. No fluff. Just tools that execute.</p>
@@ -29,7 +25,7 @@ You won’t find bloat here. Just clean, purpose-built systems designed to **han
 - 🧱 Minimalist core for remote control or monitoring  
 - 🧠 Ideal for IT labs, off-grid ops, and silent deployment scenarios
 
-**[› View RDP](https://github.com/Carrington-Labs/Rust-Desktop-Protocol)**
+**[› View RDP]([https://github.com/Carrington-Labs/Rust-Desktop-Protocol](https://github.com/Carrington-Labs/RustDesktopProtocol))**
 
 ---
 
@@ -41,7 +37,7 @@ You won’t find bloat here. Just clean, purpose-built systems designed to **han
 - 🛠️ Plug-and-play, no friction setup  
 - 🔒 Minimal permissions by default
 
-**[› View ModMail](https://github.com/Carrington-Labs/ModMail)**
+**[› View ModMail](https://github.com/Carrington-Labs/modmail)**
 
 ---
 
@@ -70,10 +66,6 @@ At Carrington Labs:
 > "Software should serve the builder, not resist them."
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Carrington-Labs/.github/main/assets/footer.svg" alt="Carrington Labs Footer" width="100%">
-</p>
 
 <p align="center">
   <sub><code>© Carrington Labs</code> – Break the rules. Ship the code. Handle the fallout.</sub>
