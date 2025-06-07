@@ -1,31 +1,80 @@
-# Pioneer Capitol Strategies
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Carrington-Labs/.github/main/assets/header.svg" alt="Carrington Labs Banner" width="100%">
+</p>
 
-## Overview
-Pioneer Capitol Strategies is a forward-thinking academy on a mission to evolve into a fully-fledged hedge fund. We are currently operating a Discord server that features a web scraping bot designed to retrieve trading data from the US Congress. Our aim is to leverage this data to generate profitable investment opportunities for our subscribers.
+<h1 align="center">⚙️ Carrington Labs</h1>
+<p align="center"><strong><em>Code that hits like a precision strike.</em></strong></p>
+<p align="center">No noise. No fluff. Just tools that execute.</p>
 
-## Mission
-Our mission is to utilize advanced data analytics and strategic investment insights to empower our subscribers with unique trading opportunities. By tracking the trading activities of the US Congress, we aim to mirror these trades, thereby providing our investors with the potential for significant returns.
+---
 
-## Current Operations
-- **Discord Server**: Our active community on Discord serves as a hub for our members to discuss trading strategies, share insights, and stay updated with the latest market trends.
-- **Web Scraping Bot**: This bot automatically collects and updates trading data from the US Congress, providing our community with real-time insights.
+## 🧠 About Us
 
-## Future Plans
-1. **Forming an Axiebolag (Swedish LLC)**:
-   - **Subscription Model**: We plan to offer a subscription service with flexible payment options (monthly, quarterly, or custom plans).
-   - **Investment Strategy**: Subscriber funds will be used to buy and sell the same shares as the US Congress.
-   - **Earnings Distribution**: Investors will receive their earnings on a yearly basis after each sale.
-  #### How It Would Work:
-  - **Subscription**: Choose a subscription plan that fits your investment goals and budget.
-  - **Investment**: Your subscription funds are pooled together and used to execute trades based on the data collected from US Congress trading activities.
-  - **Returns**: Profits from these trades are distributed to subscribers annually, providing a potential for substantial returns.
+> We don’t build startups.  
+> We build blackbox-grade tools for devs, hackers, sysadmins, and the quietly elite.
 
-2. **Becoming a Luxembourger Hedge Fund**:
-   - **Long-Term Vision**: Our ultimate goal is to transition into a Luxembourg-based hedge fund, expanding our investment strategies and operations to a global scale.
+Carrington Labs is where ideas go from sketch to ship.  
+We focus on **performance**, **minimalism**, and **absolute control** over the stack.  
+You won’t find bloat here. Just clean, purpose-built systems designed to **handle edge cases like it’s the default**.
 
+---
 
+## ⚔️ Active Projects
 
-## Getting Started
-1. **Join Our Discord**: Connect with like-minded individuals and stay informed about our latest developments.
-2. **Subscribe**: Select a subscription plan that suits your needs.
-3. **Invest & Earn**: Sit back and watch your investment grow as we manage your funds using our data-driven strategies.
+### 🖥️ Rust Desktop Protocol (RDP)
+> <sub>A zero-dependency, browser-viewable remote desktop engine built in Rust.</sub>
+
+- 🔧 Headless, clientless, pure Rust  
+- 🌐 Streams over HTTP — no installs, no fuss  
+- 🧱 Minimalist core for remote control or monitoring  
+- 🧠 Ideal for IT labs, off-grid ops, and silent deployment scenarios
+
+**[› View RDP](https://github.com/Carrington-Labs/Rust-Desktop-Protocol)**
+
+---
+
+### 📨 ModMail
+> <sub>A Discord bot that *does one thing right*: user support through clean DMs.</sub>
+
+- 🔁 Routes messages directly to mod threads  
+- 🧾 Auto-logs and archives  
+- 🛠️ Plug-and-play, no friction setup  
+- 🔒 Minimal permissions by default
+
+**[› View ModMail](https://github.com/Carrington-Labs/ModMail)**
+
+---
+
+## 🚧 Incoming Signals
+
+> We’ve got some quiet storms brewing.
+
+Coming soon:
+- ⚙️ Micro-agents for embedded environments  
+- 🛰️ Decentralized task orchestration  
+- 🔐 Red team tools that leave no noise  
+- 🧭 Real-time vision + command center interfaces  
+
+---
+
+## 🧬 Philosophy
+
+> You don’t need 20 MB of JavaScript to do one job.
+
+At Carrington Labs:
+- We **ship less code** to get more done.  
+- We **build tools** that never panic on error.  
+- We **respect the stack** — from silicon to UX.  
+- And we don’t use frameworks as crutches.
+
+> "Software should serve the builder, not resist them."
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Carrington-Labs/.github/main/assets/footer.svg" alt="Carrington Labs Footer" width="100%">
+</p>
+
+<p align="center">
+  <sub><code>© Carrington Labs</code> – Break the rules. Ship the code. Handle the fallout.</sub>
+</p>
